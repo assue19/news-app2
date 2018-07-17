@@ -7,9 +7,9 @@
         <h3>{{article.title}}</h3>
         <h4>{{article.author}}</h4>
         <p>{{article.description}}</p>
+        <a class="button" :href="article.url" target="_blank">read more</a>
 
-    <a class = "button" : href="article.url" target="_blank">READ MORE<a/>
-
+    
  
   </div>
 <!-- </div> -->
