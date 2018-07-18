@@ -11,3 +11,12 @@ body {
   padding: 5px;
   border: 20px solid maroon;
 }
+input{
+	margin: 0 auto;
+	padding: 20px;
+	width: 50%;
+	border-radius: 10px;
+	font-size: 20px;
+	
+
+}
